@@ -1,0 +1,7 @@
+@charset "utf-8";
+a.imgov:hover img{
+ filter:alpha(opacity=75); /*IE*/
+ -moz-opacity:0.75; /*FF*/
+ opacity:0.75;
+ }/* CSS Document */
+
